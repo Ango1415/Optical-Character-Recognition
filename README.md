@@ -9,4 +9,4 @@ de Sistemas. El objetivo principla del mismo es, mediante una captura fotografic
 mediante el uso de tecnicas de tratamiento de imágenes e inteligencia artificial poder determinar el texto
 en la fotografia, para luego mediante una voz computarizada leer el mismo.
 
-Video explicativo: https://youtu.be/nnps93GQXYs
+Video explicativo: https://youtu.be/8-zeLDFyRxY
