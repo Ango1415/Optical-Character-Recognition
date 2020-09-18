@@ -1,3 +1,4 @@
+![Banner El Arte mas allá del Humano](Baner.png)
 # Optical-Character-Recognition
 Proyecto final para la asignatura Inteligencia Artificial
 
