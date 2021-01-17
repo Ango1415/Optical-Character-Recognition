@@ -23,4 +23,4 @@ Systems. The main objective of it is, by means of a photographic capture of a ce
 through the use of image processing techniques and artificial intelligence to be able to determine the text
 in the photograph, and then read it by means of a computerized voice.
 
-Explanatory video: https://youtu.be/8-zeLDFyRxY
+Explanatory video(in spanish): https://youtu.be/8-zeLDFyRxY
